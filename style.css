@@ -34,15 +34,6 @@
   z-index: -1;
 }
 
-<<<<<<< HEAD
-.jumbotron a:hover::before {
-  transform: scaleX(1);
-  transform-origin: left;
-  background: #ffffff;
-}
-
-=======
->>>>>>> 30dcfc1 (change device)
 .jumbotron a:hover {
   color: #000000;
 }
