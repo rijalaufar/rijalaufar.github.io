@@ -5,6 +5,7 @@ var typed = new Typed(".typing", {
     "Animasi 3D",
     "Video Editing",
     "Web Programming",
+    "Banking",
   ],
   typeSpeed: 100,
   backSpeed: 60,

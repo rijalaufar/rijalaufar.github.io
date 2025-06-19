@@ -64,16 +64,19 @@
 
 #about {
   font-size: 20px;
+  text-align: justify;
 }
 
 @media screen and (max-width: 576px) {
   #about p {
     padding: 15px;
+    text-align: justify;
   }
 }
 
 .p .download {
   padding-top: 20px;
+  text-align: justify;
 }
 
 /* project */
@@ -201,4 +204,5 @@ a {
   text-align: center;
   margin-left: 10px;
   margin-right: 10px;
+  text-align: justify;
 }
